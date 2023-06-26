@@ -201,9 +201,7 @@ img {
         transition: color var(--transition);
     }
 
-    .address-item:first-child {
-        margin-bottom: 12px;
-    }
+
 
     .social:hover,
     .social:focus {
@@ -397,7 +395,7 @@ img {
 
 .list-social-links {
     display: flex;
-    gap: 56px;
+    justify-content: space-between;
 }
 
 
