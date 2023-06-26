@@ -201,8 +201,6 @@ img {
         transition: color var(--transition);
     }
 
-
-
     .social:hover,
     .social:focus {
         color: var(--active);
